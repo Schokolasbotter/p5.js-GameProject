@@ -1,0 +1,25 @@
+html, body {
+  height: 100%;
+}
+
+body {
+	margin: 0;
+	display: flex;
+  	justify-content: center;
+  	align-items: center;
+	background-color: #000;
+}
+
+.headline {
+	color: white;
+	font-size: 50px;
+	position: absolute;
+	top: 5%;
+}
+
+.subTitle{
+	color: white;
+	font-size: 30px;
+	position: absolute;
+	top: 10%;
+}
